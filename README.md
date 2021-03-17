@@ -9,14 +9,14 @@ To learn more about Unity XR development and practices, please familiarize yours
 ### Requirements
 You will need the following to set up the Unity environment:
 
-A computer that meets the system requirements
-Varjo Base 3.0.0 or newer
-SteamVR
-Unity 2019.4.0f1 or newer (see XR plugin compatibility for compatible render pipelines)
-Unity software set with Windows Build Support
-A project using DirectX 11 (OpenGL/Vulkan/DX12 are currently not supported)
-Varjo Unity XR SDK Plugin
-A Varjo headset (optional)
+- A computer that meets the [system requirements](https://varjo.com/use-center/get-started/system-requirements/)  
+- [Varjo Base 3.0.0 or newer](https://developer.varjo.com/downloads#varjo-base)  
+- [SteamVR](https://steamcommunity.com/steamvr)  
+- Unity 2019.4.0f1 or newer (see XR plugin compatibility for compatible render pipelines)  
+- Unity software set with Windows Build Support  
+- A project using DirectX 11 (OpenGL/Vulkan/DX12 are currently not supported)  
+- Varjo Unity XR SDK Plugin  
+- A Varjo headset (optional)
 
 ### Getting started
 The Getting started section will help you download and install the Varjo XR plugin for Unity.
